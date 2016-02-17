@@ -1,0 +1,132 @@
+.clear {
+    clear:both;
+}
+
+.ui-page {
+    background:#d3dfe5;
+}
+.ui-content {
+    padding:1em;
+}
+.ui-header.ui-bar-a {
+	background: #d3dfe5;
+    border:none;
+    color: #696f72;
+}
+.ui-header.ui-bar-a > .ui-title {
+    text-shadow:none;
+}
+.ui-footer {
+    text-align: center;    
+}
+
+.err {
+    color: red;
+}
+
+.info-wrapper {
+    border: none;
+	background: #3496da;
+    padding:0.5em;
+}
+.info-wrapper-left {
+    float:left;
+    width:25%;
+}
+.info-wrapper-right {
+    float:right;
+    width:75%;
+}
+
+.info {
+    margin:0.6em 0em;
+    position:relative;
+    right:0;
+}
+.info > .info-label {
+    color:#054251;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+    float:right;
+    margin-right:10px;
+    font-size:0.8em;
+    vertical-align:middle;
+    padding:0.4em 0em;
+}
+.info > .info-data {
+    color:#fff;
+    text-shadow:none;
+    padding:0.4em 1em;
+    background:rgba(0,0,0,0.15);
+    border-radius:1em;
+    width:45%;
+    display:inline;
+    float:right;
+    font-size:0.8em;
+}
+
+.ice-logo {
+	background:url("../images/ice_air_logo.png") no-repeat 0 0;
+    margin-top: 7px;
+    width:100px;
+    height:100px;
+}
+
+#login > .ui-btn {
+    margin-top: 20px;
+}
+#numberOfFlights {
+	background:#BED929;
+	border: 1px solid #9ab021;
+	font-family: arial;
+	color: white;
+	font-size: 0.9em;
+	padding: 0em 0.3em;
+	border-radius: 0.4em;
+    margin-left:5px;
+}
+#map_canvas {
+    text-align:center;
+}
+
+/* BUTTON STYLES*/
+.ui-bar-a > .ui-btn-up-a {
+    border: 1px solid #2373A5;
+    margin-top: 1px;
+    background:#3496da;
+}
+.ui-bar-a > .ui-btn-hover-a {
+    border: 1px solid #2373A5;
+    margin-top: 1px;
+    background:#3496da;
+}
+.ui-bar-b {
+	border: none;
+	color: white;
+	font-weight: bold;
+	background: #3496da;
+}
+.ui-content .ui-listview-inset {
+    margin: 1em 5px;
+}
+.ui-btn-active {
+	border: 1px solid #2373A5;
+	background: #3496da;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+}
+.ui-icon.ui-icon-arrow-r {
+    background-color:#3496da;
+    border:none;
+}
+.ui-btn-active .ui-icon.ui-icon-arrow-r {
+	background-color: #666;
+    background-color: rgba(0, 0, 0, .4);
+	border: none;
+}
+
+.ui-loader-verbose {
+    background: #3496da;
+}

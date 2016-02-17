@@ -1,0 +1,58 @@
+{
+	"ProjectGuid": "163ec050-1adf-4897-b5bf-e6b896dafa1b",
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"AppIdentifier": "com.telerik.airlinessampleapp",
+	"ProjectName": "airlines sample app",
+	"AndroidPermissions": [
+		"android.permission.CAMERA",
+		"android.permission.VIBRATE",
+		"android.permission.ACCESS_COARSE_LOCATION",
+		"android.permission.ACCESS_FINE_LOCATION",
+		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+		"android.permission.READ_PHONE_STATE",
+		"android.permission.INTERNET",
+		"android.permission.RECEIVE_SMS",
+		"android.permission.RECORD_AUDIO",
+		"android.permission.MODIFY_AUDIO_SETTINGS",
+		"android.permission.READ_CONTACTS",
+		"android.permission.WRITE_CONTACTS",
+		"android.permission.WRITE_EXTERNAL_STORAGE",
+		"android.permission.ACCESS_NETWORK_STATE"
+	],
+	"DeviceOrientations": [
+		"Portrait"
+	],
+	"iOSStatusBarStyle": "Default",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"AndroidHardwareAcceleration": "true",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"FrameworkVersion": "3.7.0",
+	"CorePlugins": [
+		"org.apache.cordova.splashscreen",
+		"org.apache.cordova.statusbar"
+	],
+	"DisplayName": "Airlines",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA"
+	],
+	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
+	"Description": "airlines sample app",
+	"Framework": "Cordova",
+	"projectVersion": 1,
+	"WP8PublisherID": "{f8c703bc-0d47-434e-a329-45e41a2148b8}",
+	"WP8ProductID": "{796cbff4-2985-444c-ac75-737d27c0ef0e}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.airlinessampleapp",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WPSdk": "8.1"
+}
